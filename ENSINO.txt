@@ -1,0 +1,55 @@
+Keycloak local:
+
+http://localhost:8084/auth
+
+admin
+
+admin
+
+<----------------------------------------------------->
+
+Keycloak Homolog:
+
+https://auth.homolog.ccarj.intraer/auth
+
+admin
+
+#ccarj#
+
+<----------------------------------------------------->
+
+Wildfly Homolog:
+
+http://10.52.212.5:9990/console/index.html 
+
+admin
+
+#ccarj#
+
+<----------------------------------------------------->
+
+Gov Br Dev:
+
+11726290727
+
+Ensino2023*
+
+<----------------------------------------------------->
+
+Harbor:
+
+https://registry.ccarj.intraer/harbor/projects
+
+ramaldeslrr
+
+Ensino2023*
+
+<----------------------------------------------------->
+
+api.security.pag-tesouro.token.secret=${PAG_TESOURO_SECRET:NjU6I2VzaXN0ZW5zNDgyMS1ob20j}
+
+#security
+api.security.token.secret=${JWT_SECRET:YNrYMMC6BnJkl3J73g2CffryRtRg6T9l/AlAkcyR2Xk=}
+
+# GOVBR
+govbr.client.secret=${GOV_BR_CLIENT_SECRET:AKCZi2kQ3bQXaUfA93Bx0TkdXl86Bqsq-RNO-5f0-00C6rZVJRLBr2l2_-8p7DA6VhVXuyb3pvgSjwQit1vVnSw}
