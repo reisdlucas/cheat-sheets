@@ -10,6 +10,7 @@ Padrão de nome de Branch:
 Feature → Criar nova funcionalidade
 Release → Melhoras na Feature
 Hotfix → Ajustes e correções
+
 <--------------------------------------------------------------------------------------->
 
 Migração github - gitlab:
@@ -31,3 +32,11 @@ Migração github - gitlab:
   -> git push -u origin --all
   
   -> git push -u origin --tags
+  
+<--------------------------------------------------------------------------------------->
+
+Error:
+
+Invalid Path:
+
+git config core.protectNTFS false
