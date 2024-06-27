@@ -1,0 +1,11 @@
+Gerar chave SSH:
+
+ssh-keygen
+
+Gerar passphrase(solicitado ao clonar repositório remoto):
+
+12345678
+
+Copiar chave pública no Gitlab:
+
+cat /home/ramaldes/.ssh/id_rsa.pub
