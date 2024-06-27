@@ -1,3 +1,17 @@
+Fluxo de trabalho no GIT:
+https://douglasabnovato.medium.com/o-seu-fluxo-de-trabalho-no-git-2249346468e
+
+https://dev.to/vitordevsp/padronizacao-de-commit-com-commitlint-husky-e-commitizen-3g1n
+
+https://github.com/iuricode/padroes-de-commits
+
+Padrão de nome de Branch:
+
+Feature → Criar nova funcionalidade
+Release → Melhoras na Feature
+Hotfix → Ajustes e correções
+<--------------------------------------------------------------------------------------->
+
 Migração github - gitlab:
 
 -> Criar projeto no gitlab com o mesmo nome do github;
