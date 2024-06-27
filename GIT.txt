@@ -1,0 +1,19 @@
+Migração github - gitlab:
+
+-> Criar projeto no gitlab com o mesmo nome do github;
+
+-> Clonar projeto do github em uma nova pasta local;
+
+-> Alterar origin do commit:
+
+  -> git branch -r | grep -v main
+  
+  -> git checkout --track $remote
+  
+  -> git remote rename origin old-origin
+  
+  -> git remote add origin linkDoProjetoNoGitlab
+  
+  -> git push -u origin --all
+  
+  -> git push -u origin --tags
