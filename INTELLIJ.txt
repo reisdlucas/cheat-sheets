@@ -1,17 +1,17 @@
-Enable Annotation Processing:
+->Enable Annotation Processing:
 
- -> File
+ - File
  
- -> New Projects Setup
+ - New Projects Setup
  
- -> Settings for new projects
+ - Settings for new projects
  
- -> Build, Execution, Deployment
+ - Build, Execution, Deployment
  
- -> Compiler
+ - Compiler
  
- -> Annotation Processors
+ - Annotation Processors
  
- -> Enable annotation processing
+ - Enable annotation processing
  
- <--------------------------------------------------------------------------------------->
+ #####################################################################

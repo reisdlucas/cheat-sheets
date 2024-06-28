@@ -1,12 +1,12 @@
-Criar arquivo .curlrc na pasta do usuário (/home/<nome do usuario> ou ~)
+-> Criar arquivo .curlrc na pasta do usuário (/home/<nome do usuario> ou ~)
 
-configurar o proxy:
+-> configurar o proxy:
 
 proxy="http://user:senha@10.52.132.215:8080"
 
 noproxy=*.intraer,10.52.143.69,10.*,10.0.0.0/8,localhost,127.0.0.1
 
-executar o comando e copiar o access_token:
+-> executar o comando e copiar o access_token:
 
 curl --location 'http://localhost:8084/auth/realms/FAB/protocol/openid-connect/token' \
 
