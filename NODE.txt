@@ -1,0 +1,9 @@
+INSTALAÇÃO:
+
+nvm install
+
+-> listar versões instaladas:
+nvm ls
+
+-> Selecionar versão instalada:
+nvm use version

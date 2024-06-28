@@ -1,25 +1,25 @@
 INSTALAÇÃO:
 
-Versão específica:
+-> Versão específica:
 
 npm install -g @angular/cli@12.0.3
 
-Última versão:
+-> Última versão:
 
 npm install -g @angular/cli@latest
 
-Atualizar projeto específico:
+-> Atualizar projeto específico:
 
 ng update 
 
-Iniciar projeto:
+-> Iniciar projeto:
 
 ng new nomeDoProjeto --minimal
 
-Iniciar projeto com versão específica:
+-> Iniciar projeto com versão específica:
 
 ng new nomeDoProjeto --version 15.2.0
 
-Subir projeto:
+-> Subir projeto:
 
 ng serve
