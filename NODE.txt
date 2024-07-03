@@ -9,3 +9,7 @@ nvm ls
 -> Selecionar versão instalada:
 
 nvm use version
+
+-> Listar versões disponíveis para instalação:
+
+nvm ls-remote
