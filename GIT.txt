@@ -1,3 +1,9 @@
+Git token: 
+
+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
+
+#####################################################################
+
 Fluxo de trabalho no GIT:
 https://douglasabnovato.medium.com/o-seu-fluxo-de-trabalho-no-git-2249346468e
 
